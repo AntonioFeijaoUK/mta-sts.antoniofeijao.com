@@ -1,2 +1,6 @@
-# mta-sts.antoniofeijao.com
-repo for the mta-sts.antoniofeijao.com
+version: STSv1
+mode: testing
+mx: route1.mx.cloudflare.net
+mx: route2.mx.cloudflare.net
+mx: route3.mx.cloudflare.net
+max_age: 86401
